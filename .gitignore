@@ -1,5 +1,4 @@
 # Local databases
-*.db
 *.sqlite
 *.sqlite3
 
